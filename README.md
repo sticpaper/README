@@ -1,5 +1,5 @@
 | Device | Model | Label | System | Android Version | Link |
-| :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | cancro | Xiaomi 4 | device-tree | exTHmUI-10 | Android 10 | [device-tree](https://github.com/sticpaper/android_device_xiaomi_cancro/tree/exTHmui-10) |
 | cancro | Xiaomi 4 | dt-common | exTHmUI-10 | Android 10 | [dt-common](https://github.com/sticpaper/android_device_xiaomi_msm8974-common/tree/exTHmui-10) |
 | cancro | Xiaomi 4 | vendor | exTHmUI-10 | Android 10 | [vendor](https://github.com/sticpaper/android_vendor_xiaomi_cancro/tree/exTHmui-10) |
