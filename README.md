@@ -13,3 +13,4 @@
 | capricorn | Xiaomi 5s | kernel | exTHmUI-10 | Android 10 | [kernel](https://github.com/sticpaper/android_xiaomi_msm8996_kernel/tree/exTHmUI-10) |
 | nitrogen | Xiaomi MAX 3/8Lite | kernel | MIUI | Android 10 | [kernel](https://github.com/sticpaper/android_xiaomi_nitrogen_kernel/tree/nitrogen-q-oss) |
 | polaris | Xiaomi MIX 2s | kernel | MIUI | Other | [kernel](https://github.com/sticpaper/android_polaris_kernel/tree/miui-open) |
+| sagit | Xiaomi 6 | kernel | MIUI-Q | Android 10 | [kernel](https://github.com/sticpaper/android_xiaomi_sagit_kernel-miui-10/tree/miui-q-open) |
