@@ -11,6 +11,12 @@
 | capricorn | Xiaomi 5s | vr-common | exTHmUI-10 | Android 10 | [vr-common](https://github.com/sticpaper/proprietary_vendor_xiaomi-1/tree/ten/msm8996-common) |
 | capricorn | Xiaomi 5s | hardware | exTHmUI-10 | Android 10 | [hardware](https://github.com/sticpaper/android_hardware_xiaomi/tree/lineage-17.1) |
 | capricorn | Xiaomi 5s | kernel | exTHmUI-10 | Android 10 | [kernel](https://github.com/sticpaper/android_xiaomi_msm8996_kernel/tree/exTHmUI-10) |
+| polaris | Xiaomi MIX 2s | device-tree | exTHmUI-10 | Android 10 | [device-tree](https://github.com/sticpaper/android_device_xiaomi_polaris/tree/exTHmUI-10) |
+| polaris | Xiaomi MIX 2s | dt-common | exTHmUI-10 | Android 10 | [dt-common](https://github.com/sticpaper/android_device_xiaomi_sdm845-common/tree/exTHmUI-10) |
+| polaris | Xiaomi MIX 2s | vendor | exTHmUI-10 | Android 10 | [vendor](https://github.com/sticpaper/android_vendor_xiaomi_polaris/tree/exTHmUI-10) |
+| polaris | Xiaomi MIX 2s | vr-common | exTHmUI-10 | Android 10 | [vr-common](https://github.com/sticpaper/android_vendor_xiaomi-sdm845-common/tree/exTHmUI-10) |
+| polaris | Xiaomi MIX 2s | hardware | exTHmUI-10 | Android 10 | [hardware](https://github.com/sticpaper/android_hardware_xiaomi/tree/lineage-17.1) |
+| polaris | Xiaomi MIX 2s | kernel | exTHmUI-10 | Android 10 | [kernel](https://github.com/sticpaper/android_polaris_kernel_AOSP/tree/exTHmUI-10) |
 | nitrogen | Xiaomi MAX 3/8Lite | kernel | MIUI | Android 10 | [kernel](https://github.com/sticpaper/android_xiaomi_nitrogen_kernel/tree/nitrogen-q-oss) |
 | polaris | Xiaomi MIX 2s | kernel | MIUI | Other | [kernel](https://github.com/sticpaper/android_polaris_kernel/tree/miui-open) |
 | sagit | Xiaomi 6 | kernel | MIUI-Q | Android 10 | [kernel](https://github.com/sticpaper/android_xiaomi_sagit_kernel-miui-10/tree/miui-q-open) |
